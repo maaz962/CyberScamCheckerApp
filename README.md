@@ -43,7 +43,9 @@ If not found → 🟢 SAFE
 
 ## 📸 Screenshots
 
-
+![App Screenshot](https://github.com/maaz962/CyberScamCheckerApp/blob/master/1app.png?raw=true)
+![App Screenshot](https://github.com/maaz962/CyberScamCheckerApp/blob/master/2url.png?raw=true)
+![App Screenshot](https://github.com/maaz962/CyberScamCheckerApp/blob/master/3url%20.png?raw=true)
 ---
 
 ## 🚀 How to Run
